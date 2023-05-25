@@ -15,4 +15,5 @@ Para Rodar esse Projeto na sua máquima, porfavor digite:
 
 ```diff
 + pip install pymongo
+- node app.js
 ```
