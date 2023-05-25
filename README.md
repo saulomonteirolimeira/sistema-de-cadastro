@@ -2,7 +2,7 @@
 <h1>Sistema de cadastro de jogos</h1>
 
 ```diff
-- text in red
+- text in re
 + text in green
 ! text in orange
 # text in gray
